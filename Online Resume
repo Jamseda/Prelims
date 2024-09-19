@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Jamier M. Seda - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h1, h2 {
+            color: #000000;
+        }
+
+        .header {
+            text-align: center;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+
+        .header h3 {
+            margin-top: 5px;
+            font-weight: 400;
+            color: #000000;
+        }
+
+        .contact {
+            margin-top: 10px;
+        }
+
+        .contact p {
+            margin: 0;
+        }
+
+        .section {
+            margin-top: 20px;
+        }
+
+        .section h2 {
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 5px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        .skills ul {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .skills ul li {
+            background: #007BFF;
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            flex: 1 1 30%;
+            text-align: center;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            padding-top: 10px;
+            border-top: 1px solid #ddd;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1>Jamier M. Seda</h1>
+            <h3>  Taal,Pulilan,Bulacan</h3>
+            <div class="09453305112">
+                <p>Email: jamierseda123@gmail.com</p>
+                <p>Phone: 09453305112</p>
+                
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Experience</h2>
+            <ul>
+               
+                </li>
+                <li><strong>Data Entry</strong> - (2023 August - 2023 December  )
+     
+                </li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Tertiary</strong> <br>
+                    <h> Poblacion Baliwag Bulacan</h> <br>
+                    <h> Baliwag Plytechnic College - 2024-2025    </h> 
+
+               <li><strong>  High School</strong> <br>
+                    <h>Longos Pulilan Bulacan </h> <br>
+                    <h> Baliwag Plytechnic College - 2013-2019    </h> 
+
+               <li><strong>Elementary</strong> <br>
+                    <h>Taal Pulilan Bulacan</h> <br>
+                    <h>Taal Elementary School  - 2007-2013    </h>    
+                </li>
+            </ul>
+        </div>
+
+        <div class="section skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Data Entry  </li>
+                <li>Programming</li>
+                <li>Leadership  </li>
+                <li>Decision making</li>
+               
+            </ul>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2024 - Jamier Seda </p>
+        </div>
+    </div>
+
+</body>
+</html>
